@@ -1,0 +1,34 @@
+h1,
+h2,
+h3 {
+    text-align: center;
+    color: rgb(122, 43, 43);
+}
+
+h2,
+h3 {
+    text-align: left;
+}
+
+.recipes-list {
+    font-size: 24px;
+}
+
+.recipes-text {
+    font-size: 18px;
+}
+
+.recipes-list li a,
+.return-home {
+    color: #333;
+    font-weight: 600;
+}
+
+.return-home {
+    font-size: 20px;
+}
+
+.riz-img {
+    width: 500px;
+    height: auto;
+}
